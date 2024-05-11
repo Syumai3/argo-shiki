@@ -11,3 +11,4 @@ function func_2倍にする(N: number) {
 }
 
 func_2倍にする(40);
+// 80
