@@ -1,3 +1,1 @@
-const message: string = "Hello Algo-method!";
-
-console.log(message);
+console.log("Hello Algo-method!");
